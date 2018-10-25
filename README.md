@@ -19,3 +19,8 @@ Lyrics Analyzer
     - Made a web(?) app to retrieve artist data in real time
     - Store data/lyrics
     - Either web scrape or rate limit on genius api (<b>Python</b> https://github.com/johnwmillr/LyricsGenius <b>General</b>https://docs.genius.com/)
+
+
+References:
+<b> General Sentiment Analysis </b> https://medium.com/@kellylougheed/coding-english-lit-natural-language-processing-in-python-ba8ebae4dde3
+<b> Sentiment Analysis for Lyrics</b> https://kvsingh.github.io/lyrics-sentiment-analysis.html
