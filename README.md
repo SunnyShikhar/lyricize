@@ -3,7 +3,7 @@ Lyrics Analyzer
 
 ### To Do;
 - NLP
-    - Download any set of lyrics/discography from one artist
+    - Download any set of lyrics/discography from one artist (Kanye: https://www.kaggle.com/slickwilly/kanye-west-discography)
     - EDA
         - Create a list of questions to answer?
             - What are the most used words? Themes? 
